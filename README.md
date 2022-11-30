@@ -37,13 +37,4 @@
     </a>
 </p>
 
-![](https://komarev.com/ghpvc/?username=MaxGamingOfficalYT&style=flat-square)
-![status](https://dev.discordprofiles.me/badge/status/806810037459746846?style=flat-square)
-![playing](https://dev.discordprofiles.me/badge/playing/806810037459746846?style=flat-square)
-![vscode](https://dev.discordprofiles.me/badge/vscode/806810037459746846?style=flat-square)
-![intellij](https://dev.discordprofiles.me/badge/intellij/806810037459746846?style=flat-square)
-[![spotify](https://dev.discordprofiles.me/badge/spotify/806810037459746846=flat-square)](https://dev.discordprofiles.me/openspotify/806810037459746846?style=flat-square)
-</div>
-
-
 ------------------------------------------  
