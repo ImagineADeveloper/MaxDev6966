@@ -37,7 +37,7 @@
     </a>
 </p>
 
-![](https://komarev.com/ghpvc/?username=brblacky&style=flat-square)
+![](https://komarev.com/ghpvc/?username=MaxGamingOfficalYT&style=flat-square)
 ![status](https://dev.discordprofiles.me/badge/status/806810037459746846?style=flat-square)
 ![playing](https://dev.discordprofiles.me/badge/playing/806810037459746846?style=flat-square)
 ![vscode](https://dev.discordprofiles.me/badge/vscode/806810037459746846?style=flat-square)
