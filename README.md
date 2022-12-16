@@ -18,6 +18,12 @@
 <a href="mailto: sylaniodevelopment@gmail.com"> <img width="30px" src="https://github.com/brblacky/BrBlacky/blob/main/icons8-email-100.png" title="Email"/> </a><br>
 </p>
 
+ ## <div align="center">I'm Tomato, mainly a Discord Bot Developer! Working since 2017 on Bots 🚀</div>  
+
+### <div align="center">[Click here to view my Portfolio](https://tomato6966.xyz)</div>  
+
+![](https://discord.c99.nl/widget/theme-3/442355791412854784.png)  
+ 
 ## 🔖 My Statistics
 &nbsp;
 <p align="center">
