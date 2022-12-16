@@ -22,7 +22,7 @@
 
 ### <div align="center">[Click here to view my Portfolio](https://sylanio.tk)</div>  
 
-![](https://discord.c99.nl/widget/theme-3/806810037459746846.png)  
+![](https://discord.c99.nl/widget/theme-3/806810037459746846.png) 
  
 ## 🔖 My Statistics
 &nbsp;
