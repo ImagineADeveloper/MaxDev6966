@@ -12,7 +12,7 @@
         <img src="./Banner.png" />
     </a>
 <p align="centre"> 
-<a href="[https://twitter.com/br_blacky](https://twitter.com/GamerMa73178197)"> <img width="30px" src="https://raw.githubusercontent.com/brblacky/BrBlacky/main/icons8-twitter-100.png" title="Telegram"/></a>
+<a href="[https://twitter.com/GamerMa73178197](https://twitter.com/GamerMa73178197)"> <img width="30px" src="https://raw.githubusercontent.com/brblacky/BrBlacky/main/icons8-twitter-100.png" title="Telegram"/></a>
 <a href="https://youtube.com/@MaxDev6966"> <img width="30px" src="https://raw.githubusercontent.com/brblacky/BrBlacky/main/icons8-youtube-music-500.png" title="Telegram"/></a>
 <a href="https://sylanio.tk/"> <img width="30px" src="https://github.com/brblacky/BrBlacky/blob/main/icons8-website-100.png" title="Discord"/></a>
 <a href="mailto: sylaniodevelopment@gmail.com"> <img width="30px" src="https://github.com/brblacky/BrBlacky/blob/main/icons8-email-100.png" title="Email"/> </a><br>
