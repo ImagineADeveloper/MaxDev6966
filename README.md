@@ -28,7 +28,7 @@
 &nbsp;
 <p align="center">
     <a href="https://github.com/MaxDev6966/">
-        <img src="https://github-readme-stats.vercel.app/api?username=MaxDev6966&hide=issues,prs&count_private=true&show_owner=true&show_icons=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=00ff99&hide_border=true/" />
+        <img src="https://github-readme-stats.vercel.app/api?username=MaxDev6966"/>
     </a>
     <a href="https://github.com/MaxDev6966/">
         <img src="https://github-readme-streak-stats.herokuapp.com?user=MaxDev6966&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=00ff99&ring=00ff99&stroke=FFFFFFFF)](https://git.io/streak-stats" />
