@@ -21,13 +21,13 @@
 
 ### <div align="center">[Click here to view my Portfolio](https://sylanio.xyz)</div>  
 
-![](https://discord.c99.nl/widget/theme-3/806810037459746846.png) 
+![](https://discord.c99.nl/widget/theme-3/984349702067748895.png) 
  
 ## 🔖 My Statistics
 
 &nbsp;
 <p align="center">
-    <a href="https://github.com/ImagineADeveloper/">
+    <a href="https://github.com/Potato6966/">
         <img src="https://github-readme-stats.vercel.app/api?username=Potato6966&hide=stars,commits,prs,issues,contribs"/>
     </a>
     <a href="https://github.com/Potato6966/">
