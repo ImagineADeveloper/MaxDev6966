@@ -35,7 +35,6 @@
 ![status](https://dev.discordprofiles.me/badge/status/984349702067748895?style=flat-square)
 ![playing](https://dev.discordprofiles.me/badge/playing/984349702067748895?style=flat-square)
 ![vscode](https://dev.discordprofiles.me/badge/vscode/984349702067748895?style=flat-square)
-![intellij](https://dev.discordprofiles.me/badge/intellij/984349702067748895?style=flat-square)
 [![spotify](https://dev.discordprofiles.me/badge/spotify/984349702067748895?style=flat-square)](https://dev.discordprofiles.me/openspotify/984349702067748895?style=flat-square)
 </div>
 
