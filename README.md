@@ -13,7 +13,7 @@
     </a>
 <p align="centre"> 
 <a href="https://youtube.com/c/MGYT6966"> <img width="30px" src="./youtube.svg" title="YouTube"/></a>
-<a href="https://sylanio.com/"> <img width="30px" src="fa-solid fa-browser" title="Website"/></a>
+<a href="https://sylanio.com/"> <img width="30px" src="fa-duotone fa-browser" title="Website"/></a>
 <a href="mailto: IAmPotato@potatofam.com"> <img width="30px" src="fa-solid fa-envelope" title="Email"/> </a><br>
 </p>
 
