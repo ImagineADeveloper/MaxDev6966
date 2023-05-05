@@ -8,12 +8,12 @@
 - 🌱 I’m currently learning Web Development
 <div align = "center">
 <p align="center">
-    <a href="https://sylanio.xyz/">
+    <a href="https://sylanio.com/">
         <img src="./Banner.png" />
     </a>
 <p align="centre"> 
 <a href="https://youtube.com/c/MGYT6966"> <img width="30px" src="https://raw.githubusercontent.com/brblacky/BrBlacky/main/icons8-youtube-music-500.png" title="YouTube"/></a>
-<a href="https://sylanio.cyz/"> <img width="30px" src="https://github.com/brblacky/BrBlacky/blob/main/icons8-website-100.png" title="Website"/></a>
+<a href="https://sylanio.com/"> <img width="30px" src="https://github.com/brblacky/BrBlacky/blob/main/icons8-website-100.png" title="Website"/></a>
 <a href="mailto: IAmPotato@potatofam.com"> <img width="30px" src="https://github.com/brblacky/BrBlacky/blob/main/icons8-email-100.png" title="Email"/> </a><br>
 </p>
 
