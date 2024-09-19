@@ -4,17 +4,17 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00ff99&lines=%22Hello+there!+%F0%9F%91%8B%F0%9F%8F%BB%22;%22I'm+Max!%22;%22Welcome+to+my+profile!%22"/>
  </a>
 </h1>
-- 🔭 I’m currently working on Advance Music Bot projects
+- 🔭 I’m currently working on Advance Discord Bot projects
 - 🌱 I’m currently learning Web Development
 <div align = "center">
 <p align="center">
-    <a href="https://sylanio.com/">
+    <a href="https://xenoz-esports.vercel.app/">
         <img src="./Banner.png" />
     </a>
 <p align="centre"> 
 <a href="https://www.youtube.com/c/MGYT6966"> <img width="30px" src="./youtube.svg" title="YouTube"/></a>
-<a href="https://sylanio.com/"> <img width="30px" src="./globe-solid.svg" title="Website"/></a>
-<a href="mailto: iamceo@sylanio9.com"> <img width="30px" src="envelope-solid.svg" title="Email"/> </a><br>
+<a href="https://xenoz-esports.vercel.app/"> <img width="30px" src="./globe-solid.svg" title="Website"/></a>
+<a href="mailto: maxfn01@hotmail.com"> <img width="30px" src="envelope-solid.svg" title="Email"/> </a><br>
 </p>
 
 ## 🔖 My Statistics
